@@ -20,9 +20,17 @@ body{
 
     /*flex-wrap flex-reverse*/
     flex-wrap: wrap;
+
+    flex-flow: column;
+    /*is shorthand for flex-direction: row and flex wrap */
 }
 
 .flexbox-container div{
     margin: 3px;
     border: 1px solid red;
+}
+
+.flexbox-container div.item1{
+    order: 3;
+    align-self: flex-end;
 }
