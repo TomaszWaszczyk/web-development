@@ -1,0 +1,17 @@
+body{
+    font-family: Arial;
+}
+
+.flexbox-container{
+    padding: 3px;
+    border: 1px solid blue;
+
+    display: flex;
+    height: 90vh;
+    align-items: baseline;
+}
+
+.flexbox-container div{
+    margin: 3px;
+    border: 1px solid red;
+}
