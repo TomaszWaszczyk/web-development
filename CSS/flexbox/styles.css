@@ -1,3 +1,10 @@
+/*flex-basis property has greater priority than width property!!!!*/
+/*flex property is shorthand for:*/
+/*1. flex-grow*/
+/*2. flex-shrink*/
+/*3. flex-basis*/
+
+
 body{
     font-family: Arial;
 }
@@ -9,7 +16,7 @@ body{
     display: flex;
     height: 90vh;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .flexbox-container div{
