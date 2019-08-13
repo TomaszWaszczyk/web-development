@@ -15,3 +15,5 @@ https://dependabot.com/
 # Links
 
 https://bestofjs.org/projects
+
+https://reactpatterns.com/
