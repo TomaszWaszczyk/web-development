@@ -1,8 +1,13 @@
-# Website Optimization
-
-https://github.com/GoogleChrome/lighthouse
+# IDE in web browser accounts
 
 https://codepen.io/PantaRhei/pen/zeRVGd
+
+http://jsfiddle.net/pantarheipl/
+
+
+# Web optimization
+
+https://github.com/GoogleChrome/lighthouse
 
 https://3perf.com/talks/web-perf-101/
 
