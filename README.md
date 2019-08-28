@@ -17,10 +17,14 @@ https://3perf.com/talks/web-perf-101/
 https://dependabot.com/
 
 
-# Links
+# React
 
 https://bestofjs.org/projects
 
 https://reactpatterns.com/
 
 https://github.com/adam-golab/react-developer-roadmap
+
+## Best practices
+
+https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-bind.md
