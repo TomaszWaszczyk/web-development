@@ -28,4 +28,4 @@ https://github.com/adam-golab/react-developer-roadmap
 
 ## Best practices
 
-https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-no-bind.md
+https://github.com/yannickcr/eslint-plugin-react/tree/master/docs/rules
