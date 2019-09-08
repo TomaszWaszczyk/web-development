@@ -27,6 +27,8 @@ https://reactpatterns.com/
 
 https://github.com/adam-golab/react-developer-roadmap
 
+https://books.goalkicker.com/ReactJSBook/
+
 
 ## Best practices
 
