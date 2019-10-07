@@ -29,6 +29,10 @@ https://github.com/adam-golab/react-developer-roadmap
 
 https://books.goalkicker.com/ReactJSBook/
 
+# Specs
+
+https://html.spec.whatwg.org
+
 
 ## Best practices
 
