@@ -4,6 +4,7 @@ https://codepen.io/PantaRhei/pen/zeRVGd
 
 http://jsfiddle.net/pantarheipl/
 
+https://codesandbox.io/u/TomaszWaszczyk
 
 # Web optimization
 
