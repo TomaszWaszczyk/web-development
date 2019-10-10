@@ -30,6 +30,8 @@ https://github.com/adam-golab/react-developer-roadmap
 
 https://books.goalkicker.com/ReactJSBook/
 
+https://github.com/enaqx/awesome-react
+
 # Specs
 
 https://html.spec.whatwg.org
