@@ -16,6 +16,8 @@ https://3perf.com/talks/web-perf-101/
 
 https://www.darkpatterns.org
 
+https://github.com/goldbergyoni/javascript-testing-best-practices
+
 
 # Tools
 
