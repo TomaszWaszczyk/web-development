@@ -54,3 +54,5 @@ https://github.com/yannickcr/eslint-plugin-react/tree/master/docs/rules
 http://loredanacirstea.github.io/es6-design-patterns/
 
 https://github.com/goldbergyoni/nodebestpractices
+
+https://github.com/ryanmcdermott/clean-code-javascript
