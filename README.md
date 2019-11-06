@@ -52,3 +52,5 @@ https://html.spec.whatwg.org
 https://github.com/yannickcr/eslint-plugin-react/tree/master/docs/rules
 
 http://loredanacirstea.github.io/es6-design-patterns/
+
+https://github.com/goldbergyoni/nodebestpractices
