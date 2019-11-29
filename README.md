@@ -42,6 +42,8 @@ https://github.com/typescript-cheatsheets/react-typescript-cheatsheet
 
 https://github.com/strvcom/react-nights-2019
 
+https://github.com/inversify/InversifyJS
+
 # Specs
 
 https://html.spec.whatwg.org
