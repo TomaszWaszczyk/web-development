@@ -18,6 +18,8 @@ https://www.darkpatterns.org
 
 https://github.com/goldbergyoni/javascript-testing-best-practices
 
+https://v8.dev/blog/cost-of-javascript-2019#json
+
 
 # Tools
 
