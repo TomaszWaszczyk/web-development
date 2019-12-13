@@ -12,6 +12,8 @@ https://next.plnkr.co/users/TomaszWaszczyk/plunks
 
 https://github.com/GoogleChrome/lighthouse
 
+https://webhint.io
+
 https://3perf.com/talks/web-perf-101/
 
 https://www.darkpatterns.org
