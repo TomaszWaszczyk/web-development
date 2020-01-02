@@ -52,6 +52,7 @@ https://github.com/inversify/InversifyJS
 
 https://html.spec.whatwg.org
 
+https://www.w3.org/WAI/standards-guidelines/wcag/
 
 ## Best practices
 
