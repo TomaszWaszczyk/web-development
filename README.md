@@ -54,6 +54,8 @@ https://html.spec.whatwg.org
 
 https://www.w3.org/WAI/standards-guidelines/wcag/
 
+https://www.w3.org/TR/DOM-Level-3-Events/
+
 ## Best practices
 
 https://github.com/yannickcr/eslint-plugin-react/tree/master/docs/rules
