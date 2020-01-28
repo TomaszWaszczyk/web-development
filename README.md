@@ -65,3 +65,5 @@ http://loredanacirstea.github.io/es6-design-patterns/
 https://github.com/goldbergyoni/nodebestpractices
 
 https://github.com/ryanmcdermott/clean-code-javascript
+
+https://github.com/justinamiller/SoftwareArchitect
