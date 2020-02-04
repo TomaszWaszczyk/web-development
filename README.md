@@ -38,6 +38,8 @@ https://reactpatterns.com/
 
 https://github.com/adam-golab/react-developer-roadmap
 
+Jest testing: https://gist.github.com/fokusferit/e4558d384e4e9cab95d04e5f35d4f913
+
 https://books.goalkicker.com/ReactJSBook/
 
 https://github.com/enaqx/awesome-react
