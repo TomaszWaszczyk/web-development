@@ -58,6 +58,8 @@ https://www.w3.org/WAI/standards-guidelines/wcag/
 
 https://www.w3.org/TR/DOM-Level-3-Events/
 
+https://wicg.github.io/compression/
+
 ## Best practices
 
 https://github.com/yannickcr/eslint-plugin-react/tree/master/docs/rules
