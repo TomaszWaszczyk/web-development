@@ -50,6 +50,10 @@ https://github.com/strvcom/react-nights-2019
 
 https://github.com/inversify/InversifyJS
 
+# RxJS
+
+https://github.com/okeeffed/cheat-sheets/blob/master/JS-RxJS.md
+
 # Specs
 
 https://html.spec.whatwg.org
