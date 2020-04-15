@@ -79,3 +79,11 @@ https://github.com/ryanmcdermott/clean-code-javascript
 https://github.com/justinamiller/SoftwareArchitect
 
 https://github.com/collections/learn-to-code
+
+## State
+
+all 3 libraries are for asynchronous action handling, but have different approach:
+
+    thunk assumes that action may be also function instead of plain object, and calling this function with dispatch as argument may dispatch serie of another actions
+    saga allows to define set of generator functions to listen on actions stream and optionally dispatch new ones
+    redux-observable is similar to saga, but uses RxJS syntax instead of generators
