@@ -82,6 +82,8 @@ https://github.com/collections/learn-to-code
 
 https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0
 
+https://github.com/elsewhencode/project-guidelines
+
 ## State
 
 all 3 libraries are for asynchronous action handling, but have different approach:
