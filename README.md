@@ -84,6 +84,8 @@ https://medium.com/better-programming/10-extraordinary-github-repos-for-all-deve
 
 https://github.com/elsewhencode/project-guidelines
 
+https://github.com/mawrkus/js-unit-testing-guide
+
 ## State
 
 all 3 libraries are for asynchronous action handling, but have different approach:
