@@ -12,6 +12,8 @@ https://stackblitz.com/@TomaszWaszczyk
 
 # Web optimization
 
+https://alexkondov.com/tao-of-react/
+
 https://github.com/GoogleChrome/lighthouse
 
 https://webhint.io
