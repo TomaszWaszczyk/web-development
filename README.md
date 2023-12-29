@@ -1,16 +1,6 @@
-# IDE in web browser accounts
-
-https://codepen.io/PantaRhei/pen/zeRVGd
-
-http://jsfiddle.net/pantarheipl/
-
-https://codesandbox.io/u/TomaszWaszczyk
-
-https://next.plnkr.co/users/TomaszWaszczyk/plunks
-
-https://stackblitz.com/@TomaszWaszczyk
-
 # Web optimization
+
+https://caddyserver.com/
 
 https://alexkondov.com/tao-of-react/
 
